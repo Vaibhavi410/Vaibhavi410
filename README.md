@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 First-year AI & Data Science student  <br>💡 Languages: C | Java | Python  <br>🌱 Currently learning: JavaScript (Frontend)  <br>🏁 Competitive Programming: CodeChef  <br>📚 DSA Practice: LeetCode  <br><br>I love solving problems, building logic, and continuously improving my coding skills.<br>
+👩‍💻 First-year AI & Data Science student  <br>💡 Languages: C | Java | Python  <br>🌱 Currently learning: JavaScript (Frontend)  <br>🏁 Competitive Programming: CodeChef,Codeforces  <br>📚 DSA Practice: LeetCode  <br><br>I love solving problems, building logic, and continuously improving my coding skills.<br>
 
 
 ## 🌐 Socials:
